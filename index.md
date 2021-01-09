@@ -1,10 +1,8 @@
 # Russell Murfet's webpage
 
-My favourite person is [Tamah](http://tamahmurfet.github.io).
+Welcome to my webpage! My auntie is [Tamah](http://tamahmurfet.github.io).
 
-My daddy is [Daniel](http://www.therisingsea.org).
-
-![mario](https://www.nintendo.com.au/mario/css/img/big-mario.png =250x)
+![mario](https://www.nintendo.com.au/mario/css/img/big-mario.png)
 
 ## My Mario Maker levels
 
